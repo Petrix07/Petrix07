@@ -4,8 +4,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Petrix07&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Petrix07)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Tecnologias
  Segue abaixo a lista de tecnologias que tive contato, seja no ramo profissional ou estudantil:
  <div style="display: inline_block"> 
@@ -30,4 +28,6 @@
 
 
 ### Redes sociais 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-fernando-petris-9a3a95204/)[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC9XZjWDxBNT-4z_X_54XLQQ)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luizfpetris/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-fernando-petris-9a3a95204/)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC9XZjWDxBNT-4z_X_54XLQQ)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luizfpetris/)
