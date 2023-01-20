@@ -1,3 +1,10 @@
+### Sobre mim
+ Olá, me chamo Luiz Fernando Petris e sou um desenvolvedor web com experiência em diversas tecnologias, incluindo HTML, CSS, JavaScript, PHP e outras. Possuo habilidades para desenvolver sites e aplicativos web responsivos, bem como experiência em trabalhar em equipe em projetos de desenvolvimento web.
+
+ Além disso, estou sempre em busca de aprender e aplicar novas tecnologias e tendências para garantir que os projetos sejam de alta qualidade e atendam às necessidades do cliente. Estou ansioso para aplicar minhas habilidades e experiência para colaborar e contribuir com projetos open-source no GitHub.
+
+ A maior parte dos repositórios apresentados nesta plataforma são destinados a estudos, visando explorar novas linguagens e recursos, para aumentar meu repertório de conhecimentos. 
+ 
 <div>
   <a href="https://github.com/Petrix07">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Petrix07&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -18,14 +25,6 @@
 	<img aling="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 	<img aling="center" alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
 <div>
-
-### Sobre mim
- Olá, me chamo Luiz Fernando Petris e sou um desenvolvedor web com experiência em diversas tecnologias, incluindo HTML, CSS, JavaScript, PHP e outras. Possuo habilidades para desenvolver sites e aplicativos web responsivos, bem como experiência em trabalhar em equipe em projetos de desenvolvimento web.
-
- Além disso, estou sempre em busca de aprender e aplicar novas tecnologias e tendências para garantir que os projetos sejam de alta qualidade e atendam às necessidades do cliente. Estou ansioso para aplicar minhas habilidades e experiência para colaborar e contribuir com projetos open-source no GitHub.
-
- A maior parte dos repositórios apresentados nesta plataforma são destinados a estudos, visando explorar novas linguagens e recursos, para aumentar meu repertório de conhecimentos. 
-
 
 ### Redes sociais 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-fernando-petris-9a3a95204/)
