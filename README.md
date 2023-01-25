@@ -27,8 +27,8 @@
 <div>
 
 ### Experiências Profissionais 
-| # | Função | Ano      |
-|---|--------|----------|
+| Empresa | Função | Ano      |
+|---------|--------|----------|
 |<img width="40" src="https://i.postimg.cc/TYb6VrSp/logo-ipm.jpg" title="IPM Sistemas" />| Backend Developer | 2021 - Atualmente
 
 ### Redes sociais 
