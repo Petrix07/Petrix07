@@ -26,6 +26,11 @@
 	<img aling="center" alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
 <div>
 
+### Experiências Profissionais 
+| # | Função | Ano      |
+|---|--------|----------|
+|<img width="40" src="https://i.postimg.cc/TYb6VrSp/logo-ipm.jpg" title="IPM Sistemas" />| Backend Developer | 2021 - Atualmente
+
 ### Redes sociais 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-fernando-petris-9a3a95204/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC9XZjWDxBNT-4z_X_54XLQQ)
