@@ -1,5 +1,5 @@
 ### Sobre mim
- Olá, me chamo Luiz Fernando Petris e sou um desenvolvedor web com experiência em diversas tecnologias, incluindo HTML, CSS, JavaScript, PHP e outras. Possuo habilidades para desenvolver sites e aplicativos web responsivos, bem como experiência em trabalhar em equipe em projetos de desenvolvimento web.
+ Olá, me chamo Luiz Fernando Petris e sou um desenvolvedor web com experiência em diversas tecnologias, incluindo HTML, CSS, JavaScript, PHP entre outras. Possuo habilidades para desenvolver sites e aplicativos web responsivos, bem como experiência em trabalhar em equipe em projetos de desenvolvimento web.
 
  Além disso, estou sempre em busca de aprender e aplicar novas tecnologias e tendências para garantir que os projetos sejam de alta qualidade e atendam às necessidades do cliente. Estou ansioso para aplicar minhas habilidades e experiência para colaborar e contribuir com projetos open-source no GitHub.
 
