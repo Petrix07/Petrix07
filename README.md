@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF79C6&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Luiz+Fernando+Petris;+Idade:+20+anos;+Cursando:+Engenharia+de+Software;+Seja+bem+vindo+:%29)](https://git.io/typing-svg)
 
 ### Sobre mim
-  Atuo como desenvolvedor web com experiência em diversas tecnologias, incluindo HTML, CSS, JavaScript, PHP, entre outras. Possuo habilidades para desenvolver sites e homepages web responsivos, bem como experiência em trabalhar em equipe em projetos de desenvolvimento web.
+  Atuo como desenvolvedor web com experiência em diversas tecnologias, incluindo HTML, CSS, JavaScript, PHP, entre outras. Possuo habilidades para desenvolver sites e homepages responsivos, bem como experiência em trabalhar em equipe em projetos de desenvolvimento web.
 
   Além disso, estou sempre em busca de aprender e aplicar novas tecnologias e tendências para garantir que os projetos sejam de alta qualidade e atendam às necessidades do cliente. Estou ansioso para aplicar minhas habilidades e experiência para colaborar e contribuir com projetos open-source no GitHub.
 
@@ -58,6 +58,7 @@
 |<img width="40" src="https://i.postimg.cc/TYb6VrSp/logo-ipm.jpg" title="IPM Sistemas" />| Backend Developer | 2021 - Atualmente
 
 ### Redes sociais 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-fernando-petris-9a3a95204/)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC9XZjWDxBNT-4z_X_54XLQQ)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luizfpetris/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-fernando-petris-9a3a95204/)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17757064/petrix)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC9XZjWDxBNT-4z_X_54XLQQ)
