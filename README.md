@@ -10,10 +10,11 @@ Atuo como desenvolvedor web com experiência em diversas tecnologias, incluindo 
 
 | # | Função | Ano      |
 |---|--------|----------|
-|<img width="40" src="https://i.postimg.cc/TYb6VrSp/logo-ipm.jpg" title="IPM Sistemas" />| Desenvolvedor back-end | 2021 - 2023
+|<img width="40" src="https://i.postimg.cc/TYb6VrSp/logo-ipm.jpg" title="IPM Sistemas" />| Desenvolvedor back-end | 2021 - 2023 |
+|<img width="40" src="https://i.postimg.cc/TYb6VrSp/logo-ipm.jpg" title="IPM Sistemas" />| Analista de sistemas | 2023 - Atualmente |
+
 </div>
-|<img width="40" src="https://i.postimg.cc/TYb6VrSp/logo-ipm.jpg" title="IPM Sistemas" />| Analista de sistemas | 2023 - Atualmente
-</div>
+
 
 A maior parte dos repositórios apresentados nesta plataforma servem de material didático pessoal. O intuito é explorar novas linguagens e recursos, para aumentar o repertório pessoal de conhecimentos. 
 
