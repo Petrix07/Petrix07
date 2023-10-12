@@ -27,8 +27,9 @@ A maior parte dos repositórios apresentados nesta plataforma servem de material
   <p align="center">
     	<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Petrix07&layout=compact&langs_count=7&theme=dracula"/>
   </p>
-
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=petrix07&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=false&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=VictorPMello&&style=flat-square" align="center" />
+</div>  
 </div>
 
 ## Tecnologias
