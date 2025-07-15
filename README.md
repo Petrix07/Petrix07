@@ -11,7 +11,8 @@ Atuo como desenvolvedor web com experiência em diversas tecnologias, incluindo 
 | # | Função | Ano      |
 |---|--------|----------|
 |<img width="40" src="https://i.postimg.cc/TYb6VrSp/logo-ipm.jpg" title="IPM Sistemas" />| Desenvolvedor back-end | 2021 - 2023 |
-|<img width="40" src="https://i.postimg.cc/TYb6VrSp/logo-ipm.jpg" title="IPM Sistemas" />| Analista de sistemas | 2023 - Atualmente |
+|<img width="40" src="https://i.postimg.cc/TYb6VrSp/logo-ipm.jpg" title="IPM Sistemas" />| Analista de sistemas | 2023 - 2024 |
+|<img width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROkZ-ShXTH9BOA8vY2e8YfnK40il8qag1P9w&s" title="Área Central" />| Desenvolvedor full stack | 2024 - Atualmente |
 
 </div>
 
