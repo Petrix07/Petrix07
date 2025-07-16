@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF79C6&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF79C6&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Luiz+Fernando+Petris;+Idade:+20+anos;+Cursando:+Engenharia+de+Software;+Seja+bem+vindo+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF79C6&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Luiz+Fernando+Petris;+Idade:+22+anos;+Cursando:+Engenharia+de+Software;+Seja+bem+vindo+:%29)](https://git.io/typing-svg)
 
 ## Sobre mim
 Atuo como desenvolvedor web com experiência em diversas tecnologias, incluindo HTML, CSS, JavaScript, PHP, entre outras. Possuo habilidades para desenvolver sites e homepages responsivos, bem como experiência em trabalhar em equipe em projetos de desenvolvimento web.
